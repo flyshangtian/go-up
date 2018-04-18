@@ -63,9 +63,6 @@ hash(ip1),hash(ip2),hash(ip3),hash(ip3)，计算出来的hash值是0~最大正�
 http://afghl.github.io/2016/07/04/consistent-hashing.html
 http://afghl.github.io/2016/11/19/implement-consistent-hashing.html
 https://gist.github.com/meigesir/1bf6338787946c18b47d
-<<<<<<< HEAD
-=======
 
 
 原出：http://ifeve.com/consist-hash/
->>>>>>> add consistent hashing
